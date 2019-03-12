@@ -16,7 +16,7 @@
 
 <b>微信开发</b>
 
-- [关于自己使用React开发微信公众号的一些坑和解决方法)](https://github.com/ahaow/Blog/issues/1)
+- [关于自己使用React开发微信公众号的一些坑和解决方法](https://github.com/ahaow/Blog/issues/1)
 
 ### [^Up](#简介)
 
