@@ -5,8 +5,8 @@
 
 <b>HTML && CSS</b>
 
-- [三栏布局： 两边固定 中间自适应](https://github.com/ahaow/Blog/issues/3)
-- [CSS盒模型](https://github.com/ahaow/Blog/issues/4)
+- [三栏布局： 两边固定 中间自适应](https://github.com/ahaow/Blog/issues/5)
+- [CSS盒模型](https://github.com/ahaow/Blog/issues/6)
 
 <b>React</b>
 
