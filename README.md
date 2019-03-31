@@ -19,7 +19,7 @@
 
 <b>其他</b>
 
-- [git使用)](https://github.com/ahaow/Blog/issues/8)
+- [git使用](https://github.com/ahaow/Blog/issues/8)
 
 
 ### [^Up](#简介)
