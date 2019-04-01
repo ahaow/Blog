@@ -10,7 +10,7 @@
 
 - [使用express搭建react ssr项目 (一)](https://github.com/ahaow/Blog/issues/3)
 - [使用express搭建react ssr项目 (二)](https://github.com/ahaow/Blog/issues/7)
-- [nextjs使用)](https://github.com/ahaow/Blog/issues/4)
+- [nextjs使用](https://github.com/ahaow/Blog/issues/4)
 
 
 <b>微信开发</b>
@@ -20,7 +20,7 @@
 <b>其他</b>
 
 - [git使用](https://github.com/ahaow/Blog/issues/8)
-- [webpack使用(一)](https://github.com/ahaow/Blog/issues/11)
+- [2019/04/01 webpack使用(一)](https://github.com/ahaow/Blog/issues/11)
 
 
 ### [^Up](#简介)
