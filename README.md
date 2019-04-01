@@ -20,7 +20,7 @@
 <b>其他</b>
 
 - [git使用](https://github.com/ahaow/Blog/issues/8)
-- [2019/04/01 webpack使用(一)](https://github.com/ahaow/Blog/issues/11)
+- [2019-04-01 webpack使用(一)](https://github.com/ahaow/Blog/issues/11)
 
 
 ### [^Up](#简介)
