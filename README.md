@@ -2,11 +2,11 @@
 
 用issues写博客,图个省心吧。
 
-## 2019/04/
+## 2019-04
 
 
 
-## 2019/04/01 前
+## 2019-04-01 前
 
 - [使用express搭建react ssr项目 (一)](https://github.com/ahaow/Blog/issues/3)
 - [使用express搭建react ssr项目 (二)](https://github.com/ahaow/Blog/issues/7)
