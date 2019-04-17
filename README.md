@@ -8,6 +8,7 @@
 
 ## javascript
 
+- [ 动态加载 / 移除 script 与 link 文件 ](https://github.com/ahaow/Blog/issues/15)
 - [ 编写原生插件方式 ](https://github.com/ahaow/Blog/issues/14)
 - [ 滚动底部及返回顶部 ](https://github.com/ahaow/Blog/issues/11)
 - [ clientHeight offsetHieght scrollHeight 以及 scrollTop offsetTop clientTop 的区别 ](https://github.com/ahaow/Blog/issues/11)
