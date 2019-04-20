@@ -29,7 +29,7 @@
 - [ git 使用 ](https://github.com/ahaow/Blog/issues/8)
 
 
-## 开源项目
+## 练手项目
 
 - [ 知乎webapp ](https://github.com/ahaow/zhihu-app)
 - [ react-cnode ](https://github.com/ahaow/react-cnode)
