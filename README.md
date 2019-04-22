@@ -18,7 +18,7 @@
 - [ 使用express搭建react ssr项目 (一) ](https://github.com/ahaow/Blog/issues/3)
 - [ 使用express搭建react ssr项目 (二) ](https://github.com/ahaow/Blog/issues/7)
 - [ nextjs使用 ](https://github.com/ahaow/Blog/issues/4)
-- [ 简单学习了解react hooks ](https://github.com/ahaow/Blog/issues/16)
+- [ 简单学习了解React Hooks ](https://github.com/ahaow/Blog/issues/16)
 
 
 ## 工作
