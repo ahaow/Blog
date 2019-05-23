@@ -26,6 +26,7 @@
 ## 工作
 
 - [ 关于自己使用React开发微信公众号的一些坑和解决方法 ](https://github.com/ahaow/Blog/issues/1)
+- [ music-app 关于 audio ](https://github.com/ahaow/Blog/issues/1)
 
 ## 其他
 
