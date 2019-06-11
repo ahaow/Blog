@@ -4,6 +4,8 @@
 
 ## html
 
+- [ 代码改变360浏览器模式 ](https://github.com/ahaow/Blog/issues/20)
+
 ## css
   
 - [ CSS小技巧 ](https://github.com/ahaow/Blog/issues/18)
