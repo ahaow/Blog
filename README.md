@@ -15,7 +15,7 @@
 - [ 编写原生插件方式 ](https://github.com/ahaow/Blog/issues/14)
 - [ 滚动底部及返回顶部 ](https://github.com/ahaow/Blog/issues/11)
 - [ clientHeight offsetHieght scrollHeight 以及 scrollTop offsetTop clientTop 的区别 ](https://github.com/ahaow/Blog/issues/11)
-- [ javascript小技巧 ](https://github.com/ahaow/Blog/issues/23)
+- [ javascript技巧 ](https://github.com/ahaow/Blog/issues/23)
 
 ## book
 - [ 《JavaScript权威指南》读书笔记 (一) ](https://github.com/ahaow/Blog/issues/22)
