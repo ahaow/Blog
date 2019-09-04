@@ -8,7 +8,7 @@
 - [ 懒加载与预加载 ](https://github.com/ahaow/Blog/issues/21)
 ## css
   
-- [ CSS技巧 ](https://github.com/ahaow/Blog/issues/18)
+- [ HTML/CSS技巧 ](https://github.com/ahaow/Blog/issues/18)
 
 ## javascript
 - [ 动态加载 / 移除 script 与 link 文件 ](https://github.com/ahaow/Blog/issues/15)
