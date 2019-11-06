@@ -2,6 +2,9 @@
 
 用issues写博客,图个省心吧。
 
+## 个人简历 
+- [ 简历 ](https://github.com/ahaow/Blog/issues/20)
+
 ## html
 
 - [ 代码改变360浏览器模式 ](https://github.com/ahaow/Blog/issues/20)
