@@ -3,7 +3,7 @@
 用issues写博客,图个省心吧。
 
 ## 个人简历 
-- [ 简历 ](https://github.com/ahaow/Blog/issues/20)
+- [ 简历 ](https://github.com/ahaow/Blog/issues/24)
 
 ## html
 
